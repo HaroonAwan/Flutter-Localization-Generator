@@ -53,6 +53,7 @@ A Flutter Web Application that can generate .arb (Localization) files in 109 loc
 
 > You can also export your JSON from here: ![Export](https://github.com/ZainUrRehmanKhan/Flutter-Localization-Generator/blob/master/assets/readme/export.JPG?raw=true)
 
+Detailed Tutorial: [Flutter Localization Generator]
 
 ## Tech
 
@@ -81,3 +82,7 @@ Want to contribute? Great just three steps to follow!
 [Translator]: <https://pub.dev/packages/translator>
 [Flutter Desk Flutter App Development Company]: <https://flutterdesk.com>
 [Web App]: <https://localization-generator-flutter.web.app/>
+[Flutter Localization Generator]: <https://flutterdesk.com/flutter-localization-generator/>
+
+
+
